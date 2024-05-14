@@ -21,6 +21,7 @@ Changes:
 - Made adapter thicker
 - Made base holes shorter
 - Replaced back indents with holes
+- Remade sacrifical layers
 
 Problems:
 
@@ -35,6 +36,7 @@ Changes:
 
 - Made back indents larger
 - Made toolhead PCB holes higher
+- Added sacrifical layers
 
 Problems:
 
