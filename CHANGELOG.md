@@ -1,3 +1,18 @@
+Release1 (14-05-2024)
+-------------------
+
+Just a fixup for a public release.
+
+Changes:
+
+- Changed EXPORT_ME to rotate properly
+- Added exports of files
+- Added documentation and photos
+
+Problems:
+
+- None?
+
 Print6 (12-05-2024)
 -------------------
 
