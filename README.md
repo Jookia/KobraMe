@@ -18,7 +18,7 @@ You will need:
 
 - 1x A Hero Me Gen6
 - 6x M3 heat sets
-- 4x M3 8mm screws (optional, the Kobra toolhead screws will work)
+- 6x M3 8mm screws (optional, the Kobra toolhead screws will work)
 
 Printing guide:
 
