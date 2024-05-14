@@ -1,3 +1,18 @@
+Print5 (08-05-2024)
+-------------------
+
+Another attempt at the back holes.
+
+Changes:
+
+- Made adapter thicker
+- Made base holes shorter
+- Replaced back indents with holes
+
+Problems:
+
+- Back holes are too far right
+
 Print4 (31-10-2023)
 -------------------
 
@@ -16,8 +31,7 @@ Problems:
 Print3 (09-07-2023)
 -------------------
 
-After cutting the indents I managed to mount this to the printer and
-confirm it works.
+After cutting the indents I managed to mount this to the printer and confirm it works.
 
 Changes:
 

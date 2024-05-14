@@ -15,4 +15,4 @@ This project modifies this content to create a FreeCAD assembly for measurements
 KobraMe License
 ---------------
 
-Excluding HeroMe.FCStd, KobraMe is copyright 2023 [Jookia](mailto:contact@jookia.org) and released under the [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. A copy of this license can be found in the ```CC-BY-SA-4.0.txt``` file.
+Excluding HeroMe.FCStd, KobraMe is copyright 2024 [Jookia](mailto:contact@jookia.org) and released under the [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. A copy of this license can be found in the ```CC-BY-SA-4.0.txt``` file.
