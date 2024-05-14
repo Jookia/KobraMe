@@ -1,3 +1,18 @@
+Print4 (31-10-2023)
+-------------------
+
+Another attempt at the back holes.
+
+Changes:
+
+- Made back indents larger
+- Made toolhead PCB holes higher
+
+Problems:
+
+- Indents are too far left
+- Indents are too shallow
+
 Print3 (09-07-2023)
 -------------------
 
