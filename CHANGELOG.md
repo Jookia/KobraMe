@@ -1,3 +1,20 @@
+Print3 (09-07-2023)
+-------------------
+
+After cutting the indents I managed to mount this to the printer and
+confirm it works.
+
+Changes:
+
+- Added supports for base holes
+- Added indents for back holes
+- Widened toolhead PCB holes
+
+Problems:
+
+- Indents are too far left
+- Indents are too small
+
 Print2 (05-07-2023)
 -------------------
 
